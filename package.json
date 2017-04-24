@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/aagreda/Bamazon#readme",
   "dependencies": {
+    "console.table": "^0.8.0",
     "express": "^4.14.1",
     "inquirer": "^3.0.5",
     "mysql": "^2.13.0",
